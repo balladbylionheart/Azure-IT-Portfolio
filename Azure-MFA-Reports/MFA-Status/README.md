@@ -1,5 +1,5 @@
 # MFA Status Report Script
-By Helen Najar, Lionheart | Ballad by Dragons
+By Helen Najar, Lionheart | Ballad by Lionheart
 
 This folder contains:
 - **MFA-Status.ps1**: The PowerShell script for generating MFA status reports.
@@ -40,12 +40,12 @@ This script is provided as-is. Test it thoroughly in a non-production environmen
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## **Contact**
 
 For questions, enhancements, or feedback:
-📬 [Main README](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/README.md)
+📬 [Main README](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/README.md)

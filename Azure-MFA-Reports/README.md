@@ -1,5 +1,5 @@
 # Azure MFA Reports
-By Helen Najar, Lionheart | Ballad by Dragons
+By Helen Najar, Lionheart | Ballad by Lionheart
 
 This directory contains PowerShell scripts to generate reports for:
 1. **MFA Status**: Provides an overview of MFA-enabled and disabled users in Azure AD.
@@ -35,13 +35,13 @@ This script is provided as-is. Test it thoroughly in a non-production environmen
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## **Contact**
 
 For questions, enhancements, or feedback:
-📬 [Main README](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/README.md)
+📬 [Main README](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/README.md)
 

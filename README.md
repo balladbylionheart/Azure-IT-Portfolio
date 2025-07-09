@@ -49,9 +49,9 @@ Each project is accompanied by a detailed README to guide users on how to deploy
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## 📬 Contact
@@ -59,7 +59,7 @@ Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https:
 For inquiries, feedback, or collaboration opportunities:
 
 - **LinkedIn**: [Helen Najar](https://www.linkedin.com/in/helen-najar)  
-- **Website**: [BalladByDragons.org/contact](https://www.balladbydragons.org/contact)  
-- **GitHub**: [@balladbydragons](https://github.com/balladbydragons)  
+- **Website**: [balladbylionheart.com/contact](https://www.balladbylionheart.com/contact)  
+- **GitHub**: [@balladbylionheart](https://github.com/balladbylionheart)  
 
 Whether you're a fellow IT specialist, a seeker of poetic code, or someone in need of Exchange or automation solutions—I'm open to connect.

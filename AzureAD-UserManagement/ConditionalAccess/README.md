@@ -1,5 +1,5 @@
 # Conditional Access Report Script
-By Helen Najar, Lionheart | Ballad by Dragons
+By Helen Najar, Lionheart | Ballad by Lionheart
 
 This folder contains:
 - **ConditionalAccess.ps1**: The PowerShell script for generating Conditional Access policy reports.
@@ -75,12 +75,12 @@ This script was tested in simulation mode due to lack of Azure access. It is exp
 ---
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## **Contact**
 
 For questions, enhancements, or feedback:
-📬 [Main README](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/README.md)
+📬 [Main README](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/README.md)

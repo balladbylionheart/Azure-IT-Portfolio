@@ -1,5 +1,5 @@
 # Bulk User Creation Tool
-By Helen Najar, Lionheart | Ballad by Dragons
+By Helen Najar, Lionheart | Ballad by Lionheart
 
 The **Bulk User Creation Tool** simplifies the onboarding process for multiple users in **Azure Active Directory (Azure AD)**. By leveraging a CSV file, you can automate the creation of user accounts, assign roles or groups, and set passwords.
 
@@ -91,12 +91,12 @@ This script is designed for **educational and demonstration purposes**. It has n
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## **Contact**
 
 For questions, enhancements, or feedback:
-📬 [Main README](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/README.md)
+📬 [Main README](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/README.md)

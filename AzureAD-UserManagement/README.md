@@ -1,5 +1,5 @@
 # Azure AD User Management
-By Helen Najar, Lionheart | Ballad by Dragons
+By Helen Najar, Lionheart | Ballad by Lionheart
 
 🚧 **Work in Progress** 🚧  
 
@@ -31,12 +31,12 @@ Future enhancements may include:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/LICENSE.md).
 
-Created and maintained by Helen Najar | Lionheart | [BalladByDragons.org](https://www.balladbydragons.org)
+Created and maintained by Helen Najar | Lionheart | [balladbylionheart.com](https://www.balladbylionheart.com)
 
 
 ## **Contact**
 
 For questions, enhancements, or feedback:
-📬 [Main README](https://github.com/balladbydragons/Azure-IT-Portfolio/blob/main/README.md)
+📬 [Main README](https://github.com/balladbylionheart/Azure-IT-Portfolio/blob/main/README.md)
